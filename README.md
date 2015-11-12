@@ -1,4 +1,4 @@
-# \textit{aufg73}
+# aufg73
 * bla
 * bla
 * bla
@@ -13,3 +13,5 @@ nombres au pif & 2 & 7 & 0.5\\
 idem & 11 & 3 & 1\\
 toujours blabla& 3 & 10 & 1\\
 \end{tabular}
+
+\textit{asdfhva}
